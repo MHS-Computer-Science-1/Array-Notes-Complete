@@ -1,0 +1,10 @@
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays_Notes.Form1.resources
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays_Notes.Resources.resources
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\refint\Arrays Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.pdb

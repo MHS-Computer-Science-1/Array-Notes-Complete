@@ -1,0 +1,35 @@
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.exe
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.deps.json
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.runtimeconfig.json
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.pdb
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays_Notes.Form1.resources
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays_Notes.Resources.resources
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\refint\Arrays Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.pdb
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net6.0-windows\ref\Arrays Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.exe
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.deps.json
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.runtimeconfig.json
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\bin\Debug\net6.0-windows\Arrays Notes.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays_Notes.Form1.resources
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays_Notes.Resources.resources
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.AssemblyInfo.vb
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\refint\Arrays Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\Arrays Notes.genruntimeconfig.cache
+C:\Users\foxrw\My Drive\Courses\CS1\08 Arrays\Arrays Notes Complete\Arrays Notes\obj\Debug\net6.0-windows\ref\Arrays Notes.dll
